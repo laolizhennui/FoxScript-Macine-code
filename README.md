@@ -1,4 +1,8 @@
 # FoxScript-Macine-code
+[![GitHub license](https://img.shields.io/github/license/laolizhennui/FoxScript-Macine-code)]([https://github.com/laolizhennui/TopspeedPower](https://github.com/laolizhennui/FoxScript-Macine-code/)/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/laolizhennui/FoxScript-Macine-code)](https://github.com/laolizhennui/FoxScript-Macine-code/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/laolizhennui/FoxScript-Macine-code)](https://github.com/laolizhennui/FoxScript-Macine-code/network)
+
 ## 你还在为Fox Script太慢而感到烦恼吗
 #### 不妨来试试FoxScript Macine code
 #### 它是把FoxScript代码转化成C语言代码，然后编译。
